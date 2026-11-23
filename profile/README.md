@@ -1,28 +1,26 @@
-# Starfish-Technology 「海星科技」
+# Starfish Lab | 海星实验室
 
-一个虚构的现实组织
+A minimum lab of making things related to java/minecraft.
 
-### 关于「海星科技」
-如你所见，这是一个创始人虚构史学看多了之后疯掉了于是构想出来的一个横跨虚拟世界和现实世界的“巨大组织”。这听起来十分令人难绷，因为这是个创始人自己看着都觉得抽象的想法。
+一个专门研究跟Java/Minecraft有关的神人聚集地
 
-不管怎么样，至少现在木刻海星的ip和相关延伸作品和一些我不便个人名义发布的东西至少都有了去处，不是吗？
+## 🙋‍♀️ Introduction | 介绍
 
-虚拟部分: 横跨Minecraft宇宙的巨星科技公司，涉及铁路，网络等多个基础设施建设。
+We cannot promise to be open to anyone, but for now we welcome anybody to be here.
+Our guideline is to build a loose community, so to any project created here, 
+its owner keep #1 control of their own projects, and have the freedom to fully control their project.
 
-现实部分：一个创始人脑子抽风搞出来的组织。
+我们无法做出长远的保证，但是至少现在我们欢迎任何感兴趣的人加入。
+我们的宗旨是一个松散的组织氛围，因而对于任何在此创建的项目，
+其所有者都保留完全控制权和来去的自由性。
 
-### 关于木制海星
+## 🌈 Contribution guidelines | 贡献指南
 
-其原本来自于某个番剧（具体无从考究）中一帧里面躺在地上的木刻海星，然后又被一个神人（没错就是我）添加了一个灵魂笑脸顺带扁平化了画风就得到了这个令人难绷的设计稿，再经过几次调整后就有了如今它的模样。
+Theres no specific guideline, just follow with the target project.
 
-
-
-
-
-
+没有明确的贡献指南和方式，根据对应项目所有者安排即可。
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
